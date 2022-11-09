@@ -1,7 +1,9 @@
-# rk_django_crud_agenda_html_sem_css
-Projeto Django - CRUD (Create/Read/Update/Delete) renderização Tabela HTML simples (sem CSS)
+# rk_django_crud_fbv_01
+Projeto Django - CRUD (Create/Read/Update/Delete) 01
 
-OBS: Utilizando FBV (Function-Based Views)
+Utilizando FBV (Function-Based Views)
+
+Renderização de Tabela HTML simples (sem CSS)
 
 virtualenv venv
 
